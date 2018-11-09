@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_248938_iplookup.ipaddressinfo_user" name="x_248938_iplookup.ipaddressinfo_user">28ccb6afdb61230044c82bfa4b9619ed</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 18:53:45</sys_created_on>
+        <sys_id>68ccb6afdb61230044c82bfa4b9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>28ccb6afdb61230044c82bfa4b9619ed</sys_name>
+        <sys_package display_value="IPLookup" source="x_248938_iplookup">d9af6e23db61230044c82bfa4b96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">d9af6e23db61230044c82bfa4b96198f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_68ccb6afdb61230044c82bfa4b9619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 18:53:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
